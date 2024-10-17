@@ -5,5 +5,4 @@
 - 📫 How to reach me: sitesbystephanie@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have jack russell terrier named Henry!🐶
-- 🗒️ [Resume](https://docs.google.com/document/d/17AMoo1i7fVIN1HsNov6j-_HIYc5vSajWpyojyRUf06M/edit?usp=sharing)
 
