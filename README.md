@@ -1,7 +1,12 @@
-## Hi there 👋
-  
-- 🔭 I’m currently working on [RateYourStyle](https://rateyourstyle.com), a project I work on for fun to help me practice coding, learn new technologies, and (the real reason) an excuse to buy more clothes 💃
-- 💬 Ask me about my side projects 😄
-- 🤓 Currently enrolled in Georgia Tech's OMSCS program
-- ⚡ Fun fact: I have jack russell terrier named Henry!🐶
+# Welcome! I'm Steph 🌺
 
+- 📚 Currently enrolled in Georgia Tech's OMSCS program
+- 🌱 Ask me about my side projects
+- 💬 Reach me at sitesbystephanie@gmail.com
+
+
+### 🛠 &nbsp;Tech Stack
+- Backend: ![](https://img.shields.io/badge/Golang-00ADD8) ![](https://img.shields.io/badge/Python-2f6897) ![](https://img.shields.io/badge/Django-094b32) 
+- Frontend: ![](https://img.shields.io/badge/Javascript/Typescript-3077c4) ![](https://img.shields.io/badge/React-097ea3) ![](https://img.shields.io/badge/NextJS-000000) 
+- DevOps: ![](https://img.shields.io/badge/K8S-316ae5)  ![](https://img.shields.io/badge/Docker-295ff8)  ![](https://img.shields.io/badge/Terraform-7b42bd)
+- DB: ![](https://img.shields.io/badge/Postgres-336790) ![](https://img.shields.io/badge/ElasticSearch-0dbcb1)
